@@ -1,0 +1,8 @@
+{
+  "name": "rabbit2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "3e062e3b"
+}
